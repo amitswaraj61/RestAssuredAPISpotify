@@ -1,4 +1,4 @@
-package com.spotify;
+package com.bridgelab.restAssured;
 
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
